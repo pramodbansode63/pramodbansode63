@@ -6,7 +6,7 @@
 - 📫 How to reach me **pramodbansode65@gmail.com**
 
 - ⚡ Fun fact **A Mechanical Engineer Turned IT Professional**
-a
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/parmeshwar-bansode-341687157" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pramodbansode63-341687157" height="30" width="40" /></a>
